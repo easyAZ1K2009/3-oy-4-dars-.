@@ -11,6 +11,7 @@
   padding: 219px 256px 220px 256px;
   justify-content: center;
   align-items: center;
+  margin: auto;
   background-color: #36384d;
 }
 
@@ -110,4 +111,15 @@ button:hover {
   background-color: black;
   color: white;
   transition: all 0.5s;
+}
+
+.right {
+  width: 400px;
+  height: 593px;
+  margin-top: 20px;
+  margin-left: 30px;
+}
+
+input:hover {
+  color: black;
 }
